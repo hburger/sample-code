@@ -1,2 +1,1 @@
-# sample-code
-A git repository for various sample code for java, web development, or scripting languages.
+A git repository for storing sample code for java, web development, and scripting languages.
